@@ -44,12 +44,12 @@ function fillVoiceList() {
   });
 }
 
-// Remplit la liste des voix lorsque les voix sont chargées
+// Wait for the voices to be loaded
 if (speechSynthesis.onvoiceschanged !== undefined) {
   speechSynthesis.onvoiceschanged = fillVoiceList;
 }
 
-// Remplit la liste des voix au démarrage
+// Fill the voice options
 fillVoiceList();
 
 // Display the subtitles
