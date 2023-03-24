@@ -1,6 +1,6 @@
 # YouTranslate (Beta)
 
-YouTranslate is a Google Chrome extension that allows users with reading difficulties to watch YouTube videos in any language. This extension reads the video's subtitles out loud, providing an accessible and enjoyable experience for users who might struggle with reading on-screen text. This project is currently in its beta phase, and any suggestions for improvements are welcome.
+YouTranslate is a Chrome extension that reads YouTube video subtitles out loud, providing an accessible experience for users with reading difficulties. Watch videos in any language with automatic subtitle activation and customizable text-to-speech voices. Currently in beta, contributions are welcome!
 
 ## TODO
 
