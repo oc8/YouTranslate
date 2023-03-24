@@ -1,0 +1,30 @@
+body {
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+button {
+  margin-top: 20px;
+	width: 50px;
+	background-color: none;
+	border: none;
+	background: none;
+}
+.column {
+	display: flex;
+	flex-direction: column;
+}
+.row {
+	display: flex;
+	flex-direction: row;
+}
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#voice-select {
+	width: 200px;
+}
