@@ -4,9 +4,9 @@ YouTranslate is a Google Chrome extension that allows users with reading difficu
 
 ## TODO
 
-	- [ ] Add a hide/show subtitle button to the toolbar
-	* [ ] Add a design
-	* [ ] Add a better voice
+- [ ] Add a hide/show subtitle button to the toolbar
+- [ ] Add a design
+- [ ] Add a better voice
 
 ## Features
 
