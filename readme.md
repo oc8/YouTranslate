@@ -4,13 +4,13 @@ YouTranslate is a Google Chrome extension that allows users with reading difficu
 
 ## TODO
 
-- [ ] Add a hide/show subtitle button to the toolbar
 - [ ] Add a design
 - [ ] Add a better voice
+- [ ] Add a hide/show subtitle button to the toolbar
+- [ ] Automatically activates subtitles in the chosen language
 
 ## Features
 
-- Automatically activates subtitles in the chosen language (default is French)
 - Reads subtitles out loud using text-to-speech
 - Allows users to select a preferred voice for text-to-speech
 - Mutes the video's audio to avoid interference with text-to-speech
@@ -26,11 +26,10 @@ YouTranslate is a Google Chrome extension that allows users with reading difficu
 ## Usage
 
 1. Open a YouTube video in the Google Chrome browser.
-2. The extension will automatically activate subtitles in the chosen language (default is French) and mute the video's audio.
+2. The extension will automatically activate subtitles in the chosen language and mute the video's audio.
 3. Click the YouTranslate icon in the Chrome toolbar to access the popup.
 4. Select your preferred voice from the dropdown menu.
 5. Click the "Start" button to begin the text-to-speech playback of the subtitles.
-6. To stop the text-to-speech playback, click the "Stop" button.
 
 ## Contributing
 
